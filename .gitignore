@@ -3,5 +3,13 @@ Resources
 *.xlsx
 *.xls
 *.rar
-AppAutomatizacionIndicadores
-AppAutomatizacionIndicadores/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+.vscode
+.vscode/
+_pycache_
+_pycache_/*
+venv
+venv/*
+basura
+*.pyc
